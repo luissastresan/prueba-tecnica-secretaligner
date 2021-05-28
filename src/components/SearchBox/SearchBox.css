@@ -1,0 +1,18 @@
+.searchContainer {
+    display: flex;
+    margin-top: 25px;
+}
+
+.searchContainer svg {
+    position: absolute;
+    margin: 17px;
+}
+
+.searchContainer input {
+    width: 41vw;
+    height: 50px;
+    background-color: #EDEDED;
+    border: none;
+    border-radius: 5px;
+    padding-left: 50px;
+}

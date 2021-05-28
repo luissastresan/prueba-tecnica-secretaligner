@@ -1,0 +1,10 @@
+.pacientCard {
+    align-items: center;
+    display: flex;
+    border: 1px solid gray;
+    width: 30%;
+    flex-direction: column;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+}

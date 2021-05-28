@@ -1,0 +1,27 @@
+.pacientRow {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 15px;
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+
+.options-row {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 83%;
+    height: 84px;
+}
+
+.options-row span {
+    border-bottom: 1px solid gray;
+    padding: 5px;
+}
+
+#delete-row {
+    padding-top: 5px;
+}

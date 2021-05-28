@@ -1,0 +1,7 @@
+.sidebar {
+    -webkit-box-shadow: 3px 3px 5px 3px #f3f3f3;
+    -moz-box-shadow: 3px 3px 5px 3px #f3f3f3; 
+    box-shadow: 3px 3px 5px 3px #f3f3f3;
+    width: 15%;
+    min-height: 810px;
+}

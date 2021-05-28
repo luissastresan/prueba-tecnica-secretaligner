@@ -1,0 +1,16 @@
+.dowloadButton {
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 25px;
+    cursor: pointer;
+    color: blue;
+    width: 170px;
+    height: 45px;
+    border: 1px solid #4a92c7;
+    text-decoration: none;
+}
